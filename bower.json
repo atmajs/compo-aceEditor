@@ -1,0 +1,24 @@
+{
+  "name": "compo-aceEditor",
+  "version": "0.8.7",
+  "homepage": "https://github.com/atmajs/compo-aceEditor",
+  "authors": [
+    "Alex Kit <alex.kit@atmajs.com>"
+  ],
+  "description": "Ace Editor wrapper for MaskJS",
+  "main": "lib/ace.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src"
+  ],
+  "devDependencies": {
+    "maskjs": "latest",
+    "includejs": "latest"
+  }
+}
